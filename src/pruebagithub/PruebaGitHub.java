@@ -20,6 +20,7 @@ public class PruebaGitHub {
         System.out.println("HamsterEduardo");
         System.out.println("Guillermems");
         System.out.println("Soy ese");
+        Sytem.out.println("Guillermo es gay");
     }
     
 }
