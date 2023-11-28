@@ -21,6 +21,18 @@ public class Holiwis {
         System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
         System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
         System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        System.out.println("╰(*°▽°*)╯╰(*°▽°*)╯");
+        
+        System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
+        System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
+        System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
+        System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");System.out.println("(┬┬﹏┬┬)༼ つ ◕_◕ ༽つ");
+        
         
     }
 }
