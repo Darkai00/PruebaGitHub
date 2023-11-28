@@ -8,9 +8,8 @@ package pruebagithub;
  *
  * @author lenovo
  */
-public class Prueba2 {
+public class Preuba3 {
     public static void main(String[] args) {
-        System.out.println("El pepe");
-        System.out.println("Jhonny Walker");
+        System.out.println("Ya llego JC");
     }
 }
